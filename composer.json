@@ -1,0 +1,12 @@
+{
+    "name": "webmozarts/messenger-extra",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bernhard Schussek",
+            "email": "bernhard.schussek@webmozarts.com"
+        }
+    ],
+    "require": {}
+}
