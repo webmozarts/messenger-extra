@@ -1,5 +1,6 @@
 {
     "name": "webmozarts/messenger-extra",
+    "description": "Extensions to make the Symfony Messenger more powerful.",
     "type": "library",
     "license": "MIT",
     "authors": [
